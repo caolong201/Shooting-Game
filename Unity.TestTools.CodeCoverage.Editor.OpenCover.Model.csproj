@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AE035748-CD27-59CA-A098-FE01210B3D0A}</ProjectGuid>
+    <ProjectGuid>{F4CE7CD8-3E07-F4EC-DE2E-A8D1DF24EAB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.TestTools.CodeCoverage.Editor.OpenCover.Model</AssemblyName>
@@ -766,11 +766,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{5B78F4E7-6831-C688-55F0-C8B5423FB72F}</Project>
+      <Project>{D6E25596-C47B-F255-04A2-6E6FD7529CB2}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{15360661-F764-5199-C269-89F960D92846}</Project>
+      <Project>{9E737A6D-E49A-7FB2-0D9F-00F0F3663957}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
